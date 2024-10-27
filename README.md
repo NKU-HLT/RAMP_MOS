@@ -5,7 +5,7 @@ Welcome to the official implementation of:
 - **RAMP: Retrieval-Augmented MOS Prediction via Confidence-based Dynamic Weighting**
 - **RAMP+: Retrieval-Augmented MOS Prediction with Prior Knowledge Integration**
 
-This repository provides everything you need to evaluate and predict MOS (Mean Opinion Scores) efficiently with the **RAMP+ model**, leveraging **prior knowledge integration** to improve accuracy and handling out-of-domain (OOD) data gracefully. 🧠✨
+This repository provides everything you need to evaluate and predict MOS (Mean Opinion Scores) efficiently with the **RAMP+ model**, leveraging **prior knowledge integration** to improve accuracy and handling out-of-domain (OOD) data gracefully.
 
 ---
 
@@ -51,7 +51,7 @@ python predict_ramp.py --checkpoint path/to/ckpt --datastore_path path/to/datast
 
 ## 🌐 **Cross-Domain Prediction**
 
-One of the key strengths of **RAMP+** is its robust performance on **out-of-domain (OOD) data**, making it easy to evaluate new domain speech without retraining. Let’s see how to set it up for OOD evaluation. 🌍
+One of the key strengths of **RAMP+** is its robust performance on **out-of-domain (OOD) data**, making it easy to evaluate new domain speech without retraining. Let’s see how to set it up for OOD evaluation. 
 
 ### 1. **Prepare Labels**
 
@@ -90,7 +90,7 @@ python predict_ramp.py --checkpoint path/to/ckpt --datastore_path path/to/new_da
 
 ## 📚 **Acknowledgments**
 
-This project builds upon prior work from the [nii-yamagishilab/mos-finetune-ssl](https://github.com/nii-yamagishilab/mos-finetune-ssl) repository. We thank them for their contributions! 🙏
+This project builds upon prior work from the [nii-yamagishilab/mos-finetune-ssl](https://github.com/nii-yamagishilab/mos-finetune-ssl) repository. We thank them for their contributions! 
 
 ## 📑 **Citation**
 
