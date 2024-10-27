@@ -1,0 +1,3 @@
+new_domain_datastore
+model_ckpt/wav2vec_small.pt
+model_ckpt/ramp_ckpt
