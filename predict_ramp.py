@@ -11,7 +11,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--checkpoint', type=str, default='model_ckpt/ramp_ckpt',
                         help='Path to finetuned MOS prediction checkpoint.')
-    parser.add_argument('--datastore_path', type=str, default='new_domain_datastore',
+    parser.add_argument('--datastore_path', type=str, default='datastore_profile',
                         help='Path to finetuned MOS prediction checkpoint.')
     parser.add_argument('--wavdir', type=str, default='example_samples',
                         help='Path to finetuned MOS prediction checkpoint.')

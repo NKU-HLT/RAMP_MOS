@@ -1,3 +1,7 @@
 new_domain_datastore
 model_ckpt/wav2vec_small.pt
 model_ckpt/ramp_ckpt
+datastore_profile/od_emb_array.pkl
+datastore_profile/od_label_array.pkl
+datastore_profile/od_sys_array.pkl
+test_answer.txt
