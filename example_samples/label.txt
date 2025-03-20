@@ -1,4 +1,4 @@
-example_samples/sys64e2f-utt491a78a.wav,4.0
-example_samples/sys64e2f-utt8485f83.wav,3.625
-example_samples/sys7ab3c-utt1417b69.wav,3.375
-example_samples/sys7ab3c-uttb548b8d.wav,2.0
+sys2e1cb-uttbab062c,3.375
+sys64e2f-utt8485f83,3.625
+sys64e2f-utt491a78a,4.0
+sys7ab3c-utt1417b69,3.375
