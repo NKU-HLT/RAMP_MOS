@@ -18,7 +18,7 @@ Get started by cloning the repository and downloading [the necessary checkpoint 
 
 
 ```bash
-git clone https://github.com/jiusansan222/RAMP_MOS.git
+git clone https://github.com/NKU-HLT/RAMP_MOS.git
 cd RAMP_MOS
 ```
 
