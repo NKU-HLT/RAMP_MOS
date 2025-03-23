@@ -116,6 +116,14 @@ If you use RAMP+ in your research, please cite us as follows:
   doi       = {10.21437/Interspeech.2023-851},
   issn      = {2958-1796},
 }
+
+@article{wang2025ramp+,
+  title={RAMP+: Retrieval-Augmented MOS Prediction With Prior Knowledge Integration},
+  author={Wang, Hui and Zhao, Shiwan and Zheng, Xiguang and Zhou, Jiaming and Wang, Xuechen and Qin, Yong},
+  journal={IEEE Transactions on Audio, Speech and Language Processing},
+  year={2025},
+  publisher={IEEE}
+}
 ```
 
 ---
